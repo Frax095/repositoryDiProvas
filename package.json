@@ -1,0 +1,11 @@
+{
+  "name": "repositorydiprovas",
+  "version": "1.0.0",
+  "description": "test di prova",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Francesco Frazzetto",
+  "license": "MIT"
+}
